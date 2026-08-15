@@ -1,0 +1,43 @@
+| Nepali legal term           | English equivalent               | Short explanation                                                                                    |
+| --------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **संविधान**                 | Constitution                     | The supreme law of Nepal. All other laws must be consistent with it.                                 |
+| **ऐन**                      | Act / Statute                    | A law formally enacted by the legislature.                                                           |
+| **संहिता**                  | Code                             | A systematically organized body of law covering a broad legal subject.                               |
+| **नियमावली**                | Regulation / Rules               | Detailed rules made under the authority of an Act.                                                   |
+| **कार्यविधि**               | Procedure                        | The legally prescribed process for carrying out judicial or administrative actions.                  |
+| **दफा**                     | Section                          | A main numbered provision within an Act or Code.                                                     |
+| **उपदफा**                   | Subsection                       | A subdivision of a section.                                                                          |
+| **खण्ड**                    | Clause                           | A smaller subdivision within a section or subsection.                                                |
+| **उपखण्ड**                  | Sub-clause                       | A subdivision of a clause.                                                                           |
+| **प्रावधान / व्यवस्था**     | Provision                        | A specific legal rule, requirement, right, power, or obligation.                                     |
+| **प्रतिबन्धात्मक वाक्यांश** | Proviso                          | A clause that creates an exception, qualification, condition, or limitation to a main rule.          |
+| **स्पष्टीकरण**              | Explanation                      | Text added to clarify the meaning or scope of a legal provision.                                     |
+| **अनुसूची**                 | Schedule                         | Attached forms, tables, lists, classifications, or supporting material forming part of a law.        |
+| **परिच्छेद**                | Chapter                          | A group of related sections within a law.                                                            |
+| **प्रस्तावना**              | Preamble                         | Introductory text explaining the purpose and background of a law.                                    |
+| **फैसला**                   | Judgment / Decision              | A court's formal determination of a case.                                                            |
+| **आदेश**                    | Order                            | A direction or ruling issued by a court, which may or may not finally decide the case.               |
+| **नजिर**                    | Precedent                        | A previous judicial decision used as authority in later similar cases.                               |
+| **प्रतिपादित सिद्धान्त**    | Judicially established principle | A legal principle established or clarified through a court judgment.                                 |
+| **न्यायिक व्याख्या**        | Judicial interpretation          | The meaning given to constitutional or statutory provisions by courts.                               |
+| **मुद्दा**                  | Case / Legal proceeding          | A dispute or proceeding brought before a court.                                                      |
+| **वादी**                    | Plaintiff / Claimant             | The party who initiates a civil proceeding or makes a claim.                                         |
+| **प्रतिवादी**               | Defendant / Respondent           | The party against whom a claim or proceeding is brought.                                             |
+| **निवेदक**                  | Petitioner / Applicant           | A person who files a petition or application before a court.                                         |
+| **विपक्षी**                 | Opposing party / Respondent      | The person or institution against whom a petition is filed.                                          |
+| **रिट**                     | Writ                             | A constitutional or judicial remedy issued by a competent court.                                     |
+| **अधिकार क्षेत्र**          | Jurisdiction                     | The legal authority of a court to hear and decide a matter.                                          |
+| **कानूनी आधार**             | Legal basis                      | The constitutional, statutory, regulatory, or precedential authority supporting a claim or decision. |
+| **कानूनी प्रश्न**           | Question of law                  | A question concerning the interpretation or application of law.                                      |
+| **तथ्यगत प्रश्न**           | Question of fact                 | A question concerning what actually happened in a case.                                              |
+| **प्रमाण**                  | Evidence                         | Material presented to establish or disprove facts in a proceeding.                                   |
+| **साक्ष्य**                 | Evidence / Testimony             | Evidence used before a court, often including testimony and documentary material.                    |
+| **दाबी**                    | Claim                            | A legal assertion or relief sought by a party.                                                       |
+| **जिकिर**                   | Argument / Contention            | A legal or factual argument advanced by a party.                                                     |
+| **ठहर**                     | Holding / Determination          | What the court ultimately concludes or decides on an issue.                                          |
+| **फैसलाको आधार**            | Reasoning / Ratio                | The legal and factual reasoning that supports the court's decision.                                  |
+| **पुनरावेदन**               | Appeal                           | A request to a higher court to review a lower court's decision.                                      |
+| **पुनरावलोकन**              | Review                           | Reconsideration of a judgment under legally specified conditions.                                    |
+| **कानूनको व्याख्या**        | Statutory interpretation         | The process of determining the meaning and application of legal provisions.                          |
+| **प्रचलित कानून**           | Applicable / Prevailing law      | Laws currently in force and applicable to the issue.                                                 |
+| **खारेजी**                  | Repeal / Cancellation            | Formal removal of a law, provision, decision, or proceeding from legal effect.                       |
