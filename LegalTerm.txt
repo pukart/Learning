@@ -5,6 +5,7 @@
 | **संहिता**                  | Code                             | A systematically organized body of law covering a broad legal subject.                               |
 | **नियमावली**                | Regulation / Rules               | Detailed rules made under the authority of an Act.                                                   |
 | **कार्यविधि**               | Procedure                        | The legally prescribed process for carrying out judicial or administrative actions.                  |
+| **धारा**                     | Article                          | A main numbered provision within Constitution.                                                     |
 | **दफा**                     | Section                          | A main numbered provision within an Act or Code.                                                     |
 | **उपदफा**                   | Subsection                       | A subdivision of a section.                                                                          |
 | **खण्ड**                    | Clause                           | A smaller subdivision within a section or subsection.                                                |
