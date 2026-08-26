@@ -1,40 +1,4 @@
-“Feasibility of AI-Driven Legal Analysis in the Nepalese Legal Domain”
-1. Abstract
-
-2. Introduction and Background
-   2.1 Nepalese Judiciary and Legal Domain
-   2.2 Current Legal Information Challenges
-   2.3 Motivation for AI-Assisted Legal Analysis
-
-3. Problem Statement and Research Objectives
-
-4. Literature Review and Technical Foundations
-   4.1 Artificial Intelligence in Legal Systems
-   4.2 LLMs, RAG and Legal Information Retrieval
-   4.3 International Judicial AI Initiatives
-   4.4 Nepal-Specific Research Gap
-
-5. Proposed Judicial AI Concept and Scope
-
-6. Proposed Architecture and System Design
-   6.1 Data Sources and Digitization
-   6.2 Legal Document Processing
-   6.3 Knowledge / Metadata Layer
-   6.4 Retrieval and RAG Layer
-   6.5 LLM Analysis Layer
-   6.6 User Interface and APIs
-   6.7 Security and Governance
-
-7. Feasibility Analysis
-   7.1 Technical Feasibility
-   7.2 Data Feasibility
-   7.3 Operational / Institutional Feasibility
-   7.4 Legal and Ethical Feasibility
-
-8. Implementation Roadmap, Governance and Safety Constraints
-
-9. Challenges and Limitations
-
-10. Discussion
-
-11. Conclusion and Future Work
+-Main lesson for Nepal: the technology can work, but allowing each court to build separate AI solutions eventually creates duplication and governance problems. Nepal should define a common national architecture, metadata standard, model governance framework, and shared evaluation process from the beginning.
+-AI cannot replace judges in making judicial decisions; AI results should remain supplementary references.
+-Main lesson for Nepal: AI works much better when courts already have structured electronic files, interoperable systems, online services, and reliable digital data. This strongly supports building Nepal’s digital legal foundation before advanced AI.
+-with our Authority-Aware RAG, Nepal could actually take a more cautious technical path than some earlier international projects: verified legal data first, then retrieval and authority checking, then generation, citation verification, and finally human review.
