@@ -1,0 +1,31 @@
+1. Judicial discretion (न्यायाधीशको विवेकाधिकार)
+- Judicial discretion means the freedom given to a judge to choose the most appropriate decision within the limits of law, especially when the law does not prescribe one exact outcome.
+
+2. LEGAL-BERT (Bidirectional Encoder Representations from Transformers)
+- LEGAL-BERT is further trained on legal materials such as legislation, court decisions, contracts, and other legal documents, so it understands legal terminology and patterns better than a general-purpose BERT model.
+
+	In very simple terms:
+	BERT = a model that reads text deeply to understand what it means.
+	ChatGPT-style LLM = a model that understands text and also generates new text.
+
+3. Brazil shows value of narrow, high-volume case classification mean AI can provide strong practical value when it is used for a small, well-defined task that needs to be repeated across thousands of cases.
+
+4. Tribunals (न्यायाधिकरण)
+- Tribunals are specialized bodies that decide disputes in a particular area of law. They usually deal with a specific subject, such as tax, labor, immigration, administrative decisions, or competition matters. For example, a tax tribunal hears tax disputes, while a labor tribunal may hear disputes between employees and employers.
+
+5. Structured system
+- information arranged in an organized format so it can be easily searched, connected, analyzed, and reused.
+
+6. Nuance (अर्थको सूक्ष्म पक्ष)
+- subtle detail that affects how something should be understood.
+
+7. Grounded LLM analysis
+- means analysis produced by a large language model that is based on specific, verifiable source material, rather than only on the model’s general learned knowledge.
+- Grounded LLM analysis = AI analysis tied to authoritative and traceable source documents.
+
+8. Unicode normalization
+- making text internally consistent so computers can reliably search, compare, process, and index it.
+
+9. BM25 → good for exact legal terms, section numbers, names, citations
+   Vector search → good for similar meaning even when wording is different
+- Using both together is called hybrid retrieval, and it is often very effective for legal RAG systems.
