@@ -2,3 +2,18 @@
 -AI cannot replace judges in making judicial decisions; AI results should remain supplementary references.
 -Main lesson for Nepal: AI works much better when courts already have structured electronic files, interoperable systems, online services, and reliable digital data. This strongly supports building Nepal’s digital legal foundation before advanced AI.
 -with our Authority-Aware RAG, Nepal could actually take a more cautious technical path than some earlier international projects: verified legal data first, then retrieval and authority checking, then generation, citation verification, and finally human review.
+
+######################################
+Judicial Retrieval Score
+######################################
+Semantic relevance
+        +
+Court hierarchy
+        +
+precedential status
+        +
+law validity
+        +
+decision date/context
+        =
+Judicial retrieval score
