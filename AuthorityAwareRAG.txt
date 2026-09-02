@@ -1,0 +1,6 @@
+- Authority-Aware RAG asks, “Is this information legally authoritative, valid, and applicable?”
+- Authority-Aware RAG is therefore not a completely separate type of AI model. 
+	It is a legally controlled extension of RAG that adds structured metadata, 
+	authority rules, temporal validation, precedent relationships, citation verification 
+	and human oversight.
+- We do not let the LLM invent or independently decide authority.
